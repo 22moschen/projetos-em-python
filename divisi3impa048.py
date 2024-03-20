@@ -8,3 +8,4 @@ if a % 2 == 0:
     print('este numero é par!')
 else:
     print('este numero é impar!!!')
+    #ficou paia
