@@ -1,0 +1,6 @@
+a = input('Digite algo: ')
+print('o tipoprimitivo desse alor é', type(a))
+print('só tem espaços ?', a.isspace())
+print('só tem numeros ?', a.isnumeric())
+print('é alfabetico?', a.isalpha())
+print('é alphanumerico?', a.isalnum())
